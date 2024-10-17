@@ -13,7 +13,7 @@ This is a project description
 ## Repository contents
 
 This repository contains the data and code necessary to run this
-project. Figures are added as part of the results of the project.
+project. Results and figures are also available as part of the complete results of the project.
 
 ## How to contribute
 
